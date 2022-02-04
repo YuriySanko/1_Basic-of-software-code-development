@@ -45,6 +45,7 @@
 1. [Task3_1](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task31.java) - Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует все числа от 1 до введенного пользователем числа.
 
 2. [Task3_2](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task32.java) - Вычислить значения функции на отрезке [а,b] c шагом h:
+
 ![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_3_2.png)
 
 3. [Task3_3](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task33.java) - Найти сумму квадратов первых ста чисел.
@@ -53,6 +54,7 @@
 
 5. [Task3_5](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task35.java) - Даны числовой ряд и некоторое число е. Найти сумму тех членов ряда, модуль которых больше или равен
 заданному е. Общий член ряда имеет вид:
+
 ![image](https://user-images.githubusercontent.com/92946214/152602827-8de5487b-cfe1-4abc-8beb-d4b12b2cb353.png)
 
 
