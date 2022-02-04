@@ -1,7 +1,5 @@
 
-#  Basics of software code developmen
-
-### Решение задач:
+## Решение задач по теме - Basics of software code developmen:
 
  ### Линейные программы
 
