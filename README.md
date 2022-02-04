@@ -7,11 +7,11 @@
 
 2. [Task1_2](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task12.java) - Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
-![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_1_2.png)
+![image](https://user-images.githubusercontent.com/92946214/152604066-5debce51-ff42-4154-852c-d1acb1749f0a.png)
 
 3. [Task1_3](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Task/Task13.java) - Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
-![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_1_3.png)
+![image](https://user-images.githubusercontent.com/92946214/152604010-40145ac7-2829-49f2-a450-b0bd0b97503f.png)
 
 4. [Task1_4](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Task/Task14.java) - Дано действительное число R вида nnn.ddd (три цифровых разряда в дробной и целой частях). Поменять местами дробную и целую части числа и вывести полученное значение числа.
 
@@ -20,7 +20,7 @@
 
 6. [Task1_6](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Task/Task16.java) - Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у) принадлежит закрашенной области, и false — в противном случае:
 
-![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_1_6.png)
+![image](https://user-images.githubusercontent.com/92946214/152603957-0e57fff4-a5ef-4c47-8ff1-c448df421416.png)
 
 
 ### Ветвления
@@ -35,7 +35,7 @@
 
 5. [Task2_5](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task25.java)  -  Вычислить значение функции:
 
-![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_2_5.png)
+![image](https://user-images.githubusercontent.com/92946214/152603890-e4e57707-fab1-4d33-8a96-2a54a21daee1.png)
 
 
 ### Циклы
@@ -44,7 +44,7 @@
 
 2. [Task3_2](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task32.java) - Вычислить значения функции на отрезке [а,b] c шагом h:
 
-![](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/img/basics_3_2.png)
+![image](https://user-images.githubusercontent.com/92946214/152603835-416f85a1-3ca9-4c40-a718-4e445cfc5a60.png)
 
 3. [Task3_3](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task33.java) - Найти сумму квадратов первых ста чисел.
 
