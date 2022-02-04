@@ -1,9 +1,9 @@
 
-                                                       # Basics of software code developmen
+#                                                       Basics of software code developmen
 
 ### Решение задач:
 
-                                                           ### Линейные программы
+ ###                                                       Линейные программы
 
 1. [Task1_1](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task11.java) - Найдите  значение функции: z = ( (a – 3 ) * b / 2) + c.
 
