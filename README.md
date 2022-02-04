@@ -3,6 +3,8 @@
 
 ### Решение задач:
 
+## Линейные программы
+
 1. [Task1_1](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task11.java) - Найдите  значение функции: z = ( (a – 3 ) * b / 2) + c.
 
 2. [Task1_2](https://github.com/YuriySanko/Basic-of-software-code-development/blob/323e93edc2a7bb3acdc1aec59e079c5a30b5c052/Tasks/Task12.java) - Вычислить значение выражения по формуле (все переменные принимают действительные значения):
